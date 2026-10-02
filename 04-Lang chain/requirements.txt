@@ -1,0 +1,13 @@
+langchain
+langchain-community
+chromadb
+pypdf
+sentence-transformers
+faiss-cpu
+openai
+tiktoken
+fastapi
+uvicorn
+streamlit
+duckduckgo-search
+python-dotenv
